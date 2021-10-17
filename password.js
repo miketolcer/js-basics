@@ -1,12 +1,26 @@
-let userpresent = true;
-if (userpresent === true) {
+let userPresent = true;
+if (userPresent === true) {
     console.log("welcome user")
 }
-if (userpresent === true){
+if (userPresent === true){
     console.log("password?")
 }
-const passWord = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
-let [i] = array.length
-if i === 10
+let passWord = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10 ]
+    console.log(passWord.length);
+if (passWord === 10);{
     console.log ("success")
-    else console.log ("failure")
+} if (passWord < 10 ){  
+    console.log ("failure")
+}
+
+if (userPresent === true) {
+    console.log("d(^_-)b")
+} 
+let  F = 2
+if (F === 2) 
+console.log("  __                   __   ")
+console.log("_/  |_  ____   _______/  |_")
+console.log("(   __(/ __ () /  ___/)   __)")
+console.log(" |  | (  ___/ )___ () |  |  " )
+console.log(" |__|  (___  )____  ) |__|  ")
+console.log("           ()     ()        ")
