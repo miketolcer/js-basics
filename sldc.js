@@ -11,9 +11,15 @@
 // Maintain
 // Planning
 // Testing & Integration
-
+[Planning , Analysis , Design , Implementation , Testing & Integration , Maintain]
 
 //////////////////PROBLEM 2////////////////////
 /*
     Create a variable for each of the above steps of the Software Development Lifecycle and set the values of each variable to a definition of the step.
 */
+let Planning = establishGoals
+let Analysis = businessRules
+let Design = arrangement
+let Implementation = code
+let TestingAndIntegration = testIndiviualComponents
+let Maintain = fix
