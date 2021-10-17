@@ -8,7 +8,7 @@
     Create a variable called 'gitDefinition'.
     It should be a string containing your best definition of what Git is.
 */
-
+let gitDefinition = gitIsCallingGitHubToDoSomething
 //CODE HERE
 
 //////////////////PROBLEM 2////////////////////
@@ -18,7 +18,7 @@
 */
 
 //CODE HERE
-
+let gitHubDefinition = aWebSiteToLinkYourCodeTo
 //////////////////PROBLEMS 3 - 8////////////////////
 /*
     For the next several problems you will be creating objects containing information about different git 
@@ -35,6 +35,8 @@
 
 //CODE HERE
 
+let gitInit = CreateNewFileInGitHub
+git init
 //////////////////PROBLEM 4////////////////////
 /*
     Create an object called 'clone' with 'description' and 'code' properties 
@@ -42,7 +44,8 @@
 */
 
 //CODE HERE
-
+let clone = copyGitRepository
+git clone
 //////////////////PROBLEM 5////////////////////
 /*
     Create an object called 'status' with 'description' and 'code' properties 
@@ -50,7 +53,8 @@
 */
 
 //CODE HERE
-
+let status = currentStateofGitdirectory
+git.status
 //////////////////PROBLEM 6////////////////////
 /*
     Create an object called 'add' with 'description' and 'code' properties 
@@ -58,7 +62,8 @@
 */
 
 //CODE HERE
-
+let add = changeInWorkingDirectory
+git add
 //////////////////PROBLEM 7////////////////////
 /*
     Create an object called 'commit' with 'description' and 'code' properties
@@ -66,8 +71,8 @@
 */
 
 //CODE HERE
-
-
+let commit = screenshotOfchanges
+git commit
 //////////////////PROBLEM 8////////////////////
 /*
     Create an object called 'push' with 'description' and 'code' properties 
@@ -75,3 +80,5 @@
 */
 
 //CODE HERE
+let push = pushWorktoRemoterepository
+git push
